@@ -63,6 +63,8 @@ footer {
 .card-wrapper {
   display: flex;
   grid-area: card-wrapper;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .card {
